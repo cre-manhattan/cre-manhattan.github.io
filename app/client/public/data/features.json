@@ -1,0 +1,152 @@
+[
+  {
+    "feature": "years_since_alteration2",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "bldg_class_encoded",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "market_momentum",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "zip_6m_sale_count",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "exempt_ratio",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "years_since_alteration",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "is_llc",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "exempt_total",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "res_area",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "building_age",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "longitude",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "zipcode_num",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "has_exemption",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "units_res",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "latitude",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "landuse_code",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "assess_land_per_sf",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "zone_encoded",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "land_value_ratio",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "zip_sale_count",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "lot_shape_ratio",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "zip_6m_median_price",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "police_prct",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "assess_improvement",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "is_corp",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "unused_far",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "assess_per_sf",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "assess_total",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "bldg_shape_ratio",
+    "importance": 0.0,
+    "category": ""
+  },
+  {
+    "feature": "bldg_depth",
+    "importance": 0.0,
+    "category": ""
+  }
+]
